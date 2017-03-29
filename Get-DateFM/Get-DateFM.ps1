@@ -21,7 +21,7 @@ function Get-DateFM {
 		Get-DateFM -Format yyMMdd
 		170329
 	.Notes
-		Something usefull for writing logmessage without re-running the line <Get-Date -Format yyyyMMdd-HHmmss> every time.
+		Something usefull for writing log messages without running the line <Get-Date -Format yyyyMMdd-HHmmss>.
 	.LINK
 		https://github.com/pklingaa/powershell/Get-DateFM
     #>
